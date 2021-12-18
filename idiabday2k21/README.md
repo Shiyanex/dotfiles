@@ -2,6 +2,8 @@
 
 Note: the dotfiles are organised with chezmoi and this is done before having oomox and pywal installed
 
+Note 2: The images used can be found [here](https://twistedwonderland.miraheze.org/wiki/Idia_Shroud/Gallery) and [here](https://twistedwonderland.miraheze.org/wiki/Idia_Shroud/Cards) (Though some were edited to circumvent issues aka thanks Neofetch)
+
 Shell: zsh 5.8 with powerlevel10k (with config)
 
 DE: Plasma 5.23.4 with KWin 
@@ -22,11 +24,11 @@ Terminal: kitty (with custom configuration file in the repo)
 
 Dock: Latte dock (With the custom configuration file in the repo)
 
-SDDM theme: NetLogin (I just find it a neat thing to add)
+SDDM theme: NetLogin (I just find it a neat thing to add, though I added a background image)
 
 BetterDiscord client used (for Firefox theme, I unfortunately cannot have it exported properly)
 
-No splash screen
+No splash screen (as I cannot find 1 customizable)
 
 -----------------------------------------
 
@@ -34,6 +36,6 @@ Regular font settings (Image below):
 
 ![Imgur](https://i.imgur.com/uKIg3vw.png)
 
-Firefox colours (extension) settings (Image below, colour pick from there):
+Firefox colours (extension) settings (Image below, colour pick from there, BG image (unedited ver) can be found [here](https://twistedwonderland.miraheze.org/wiki/Ignihyde)):
 
 ![Imgur](https://i.imgur.com/JGVku3x.png)
